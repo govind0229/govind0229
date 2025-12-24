@@ -1,4 +1,4 @@
-# Hi, I'm Govind 👋 (govind0229)
+# Hi, I'm Govind 👋
 
 ![header](https://img.shields.io/badge/--Welcome_to_my_profile-0ea5e9?style=for-the-badge&logo=github)
 
