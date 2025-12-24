@@ -8,11 +8,11 @@ Building production-grade systems, delightful developer tools, and clean APIs. I
 ---
 
 <!-- ======= Quick badges ======= -->
-[![Website](https://img.shields.io/badge/website-Portfolio-blue?style=flat&logo=google-chrome)]
-[![Email](https://img.shields.io/badge/email-your-email%40example.com-red?style=flat&logo=gmail)]
-[![Twitter](https://img.shields.io/badge/twitter-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white)]
-[![LinkedIn](https://img.shields.io/badge/linkedin-YourName-0A66C2?style=flat&logo=linkedin&logoColor=white)]
-[![Resume](https://img.shields.io/badge/resume-PDF-4B8BF5?style=flat&logo=adobe)]
+[![Website](https://img.shields.io/badge/website-Portfolio-blue?style=flat&logo=google-chrome)](https://yourblog.example.com)
+[![Email](https://img.shields.io/badge/email-your-email%40example.com-red?style=flat&logo=gmail)](mailto:your-email@example.com)
+[![Twitter](https://img.shields.io/badge/twitter-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Govind%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-kumar-5b497280)
+[![Resume](https://img.shields.io/badge/resume-PDF-4B8BF5?style=flat&logo=adobe)](https://link-to-resume.pdf)
 
 ---
 
@@ -75,7 +75,7 @@ Building production-grade systems, delightful developer tools, and clean APIs. I
 - [project-two](https://github.com/govind0229/project-two) — Developer tool for automating CI checks and releases. (Python • GitHub Actions)
 - [project-three](https://github.com/govind0229/project-three) — Infrastructure as code for repeatable environments. (Terraform • AWS)
 
-Want attractive repo cards? I can generate a custom "Project showcase" section with screenshots and a one-line impact statement for each repo.
+(Replace the repo names above with your real repo names if they differ.)
 
 ---
 
@@ -99,14 +99,14 @@ Want attractive repo cards? I can generate a custom "Project showcase" section w
 <summary>🔒 Resume & Hiring</summary>
 
 - I'm open to selective opportunities — DM me on LinkedIn or email me your role description.
-- Resume (PDF): [Download](link-to-resume.pdf)
+- Resume (PDF): [Download](https://link-to-resume.pdf)
 
 </details>
 
 <details>
 <summary>📚 Blog & Talks</summary>
 
-- I write about backend patterns, observability, and practical DevOps. [Your blog link here]
+- I write about backend patterns, observability, and practical DevOps. [Your blog link here](https://yourblog.example.com)
 - Talks: "Practical Observability", "Designing for Failure" — slides & recordings linked in repos/projects.
 
 </details>
@@ -114,26 +114,18 @@ Want attractive repo cards? I can generate a custom "Project showcase" section w
 ---
 
 ## Contact
-- Email: your-email@example.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin)
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Govind Kumar](https://www.linkedin.com/in/govind-kumar-5b497280)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Blog: [yourblog.example.com](https://yourblog.example.com)
 - 📬 Best way to reach me: Email or LinkedIn
 
 ---
 
 ## How to use this README
-1. Create a new repository named exactly: govind0229 (this is required for it to show on your GitHub profile).
+1. Create a new repository named exactly: `govind0229` (this is required for it to show on your GitHub profile).
 2. Add a file named `README.md` at the root with the contents of this file.
-3. Replace placeholders (email, blog, resume, project links) with your real links and text.
+3. Replace placeholders (email, blog, resume, Twitter, project links/descriptions) with your real links and text.
 4. Optional: Pin the three Featured Projects on your profile for better visibility.
 
 ---
-
-If you want this polished even further, tell me:
-1. Your exact job title or headline (e.g., "Senior Backend Engineer").
-2. 4–6 top technologies you want highlighted.
-3. The 2–4 repositories you'd like featured (links + one-line descriptions).
-4. Preferred colors/themes for card widgets (dark, radical, default, blue, etc.)
-5. A short personal tagline (1–2 lines) and your email.
-
-I'll regenerate a fully customized, visually optimized README (including repo showcase cards with screenshots and an optional SVG banner).
