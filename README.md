@@ -8,11 +8,13 @@ Building production-grade systems, delightful developer tools, and clean APIs. I
 ---
 
 <!-- ======= Quick badges ======= -->
-[![Website](https://img.shields.io/badge/website-Portfolio-blue?style=flat&logo=google-chrome)](https://yourblog.example.com)
-[![Email](https://img.shields.io/badge/email-your-email%40example.com-red?style=flat&logo=gmail)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/twitter-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Website](https://img.shields.io/badge/website-Portfolio-blue?style=flat&logo=google-chrome)](https://medium.com/@govind_sharma)
+[![Email](https://img.shields.io/badge/email-govind_sharma%40live.com-red?style=flat&logo=gmail)](mailto:govind_sharma@live.com)
+[![Twitter](https://img.shields.io/badge/twitter-@govind0229-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/govind0229)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Govind%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-kumar-5b497280)
+<!-- To add a resume badge, uncomment and set the URL:
 [![Resume](https://img.shields.io/badge/resume-PDF-4B8BF5?style=flat&logo=adobe)](https://link-to-resume.pdf)
+-->
 
 ---
 
@@ -75,7 +77,7 @@ Building production-grade systems, delightful developer tools, and clean APIs. I
 - [project-two](https://github.com/govind0229/project-two) — Developer tool for automating CI checks and releases. (Python • GitHub Actions)
 - [project-three](https://github.com/govind0229/project-three) — Infrastructure as code for repeatable environments. (Terraform • AWS)
 
-(Replace the repo names above with your real repo names if they differ.)
+(If you want, send the exact repo links + one-line descriptions and I will replace the above placeholders with the real repos and create attractive repo cards with screenshots.)
 
 ---
 
@@ -99,14 +101,14 @@ Building production-grade systems, delightful developer tools, and clean APIs. I
 <summary>🔒 Resume & Hiring</summary>
 
 - I'm open to selective opportunities — DM me on LinkedIn or email me your role description.
-- Resume (PDF): [Download](https://link-to-resume.pdf)
+- To display a resume badge/link here, provide the public resume URL and I'll add it (e.g., Google Drive, GitHub Pages, or resume PDF link).
 
 </details>
 
 <details>
 <summary>📚 Blog & Talks</summary>
 
-- I write about backend patterns, observability, and practical DevOps. [Your blog link here](https://yourblog.example.com)
+- I write about backend patterns, observability, and practical DevOps. [My writing on Medium](https://medium.com/@govind_sharma)
 - Talks: "Practical Observability", "Designing for Failure" — slides & recordings linked in repos/projects.
 
 </details>
@@ -114,10 +116,10 @@ Building production-grade systems, delightful developer tools, and clean APIs. I
 ---
 
 ## Contact
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [govind_sharma@live.com](mailto:govind_sharma@live.com)
 - LinkedIn: [Govind Kumar](https://www.linkedin.com/in/govind-kumar-5b497280)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Blog: [yourblog.example.com](https://yourblog.example.com)
+- Twitter: [@govind0229](https://twitter.com/govind0229)
+- Blog: [https://medium.com/@govind_sharma](https://medium.com/@govind_sharma)
 - 📬 Best way to reach me: Email or LinkedIn
 
 ---
@@ -125,7 +127,7 @@ Building production-grade systems, delightful developer tools, and clean APIs. I
 ## How to use this README
 1. Create a new repository named exactly: `govind0229` (this is required for it to show on your GitHub profile).
 2. Add a file named `README.md` at the root with the contents of this file.
-3. Replace placeholders (email, blog, resume, Twitter, project links/descriptions) with your real links and text.
-4. Optional: Pin the three Featured Projects on your profile for better visibility.
+3. Replace or update the Featured Projects lines with your actual repo names/links and 1-line descriptions (send them to me and I'll do it for you).
+4. Optional: Pin your top repos on your profile for better visibility.
 
 ---
