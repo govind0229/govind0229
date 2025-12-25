@@ -1,88 +1,114 @@
-# Hi, I’m Govind 👋  
+<!-- ===================================================== -->
+<!--        Govind Kumar | Modern Animated GitHub README   -->
+<!-- ===================================================== -->
 
-![Welcome](https://img.shields.io/badge/Welcome_to_my_GitHub_Profile-0ea5e9?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://img.shields.io/badge/Govind_Kumar-Backend_•_Cloud_•_DevOps-0ea5e9?style=for-the-badge" />
+</p>
 
-### Backend Engineer • Cloud & DevOps Enthusiast • Open-Source Contributor  
+<h1 align="center">Govind Kumar</h1>
 
-I build production-grade backend systems, cloud infrastructure, and CI/CD pipelines with a focus on reliability, performance, and automation.
+<p align="center">
+  <strong>Backend Engineer • Cloud & DevOps Specialist</strong>
+</p>
+
+<p align="center">
+  <sub>
+    Designing scalable backend systems, cloud-native platforms, and automation pipelines
+    with a focus on performance, reliability, and clean architecture.
+  </sub>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Backend+Engineering;Cloud+Architecture;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+%26+Automation" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Medium-blue?style=flat&logo=google-chrome)](https://medium.com/@govind_sharma)
-[![Email](https://img.shields.io/badge/Email-govind_sharma%40live.com-red?style=flat&logo=gmail)](mailto:govind_sharma@live.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@govind0229-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/govind0229)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Govind%20Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/govind-kumar-5b497280)
+## 🔗 Connect
+<p align="center">
+  <a href="https://medium.com/@govind_sharma">Medium</a> ·
+  <a href="mailto:govind_sharma@live.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/govind-kumar-5b497280">LinkedIn</a> ·
+  <a href="https://twitter.com/govind0229">Twitter</a>
+</p>
 
 ---
 
 ## 🚀 What I Do
-- Build scalable backend services and APIs  
-- Design cloud-native infrastructure on AWS  
-- Automate CI/CD pipelines and developer workflows  
-- Focus on observability, performance, and reliability  
+- Build **production-grade backend services & APIs**
+- Design **cloud-native infrastructure on AWS**
+- Automate **CI/CD pipelines and DevOps workflows**
+- Improve **observability, performance, and reliability**
 
 ---
 
-## 🔥 Professional Highlights
-- 5+ years in backend, cloud, and DevOps engineering  
-- Strong experience with AWS, Terraform, Docker, Kubernetes  
-- Designed highly available, production-grade systems  
-- Active open-source contributor and mentor  
+## 🧰 Technology Stack
+
+### ☁️ Cloud & Infrastructure
+<p align="center">
+  <img height="60" src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker&theme=dark" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### ⚙️ Backend & Frameworks
+<p align="center">
+  <img height="60" src="https://skillicons.dev/icons?i=nodejs,fastapi,spring&theme=dark" />
+</p>
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+---
 
-### Cloud & Infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+### 💻 Languages
+<p align="center">
+  <img height="60" src="https://skillicons.dev/icons?i=typescript,javascript,python,java,rust&theme=dark" />
+</p>
 
-### Databases & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white)
+---
+
+### 🗄️ Databases & Messaging
+<p align="center">
+  <img height="60" src="https://skillicons.dev/icons?i=postgres,redis,kafka&theme=dark" />
+</p>
 
 ---
 
 ## 🌈 Core Strengths
 
-🚀 **Backend Engineering**  
-![Backend](https://img.shields.io/badge/Expertise-90%25-22c55e?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend_Engineering-90%25-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud_&_Infrastructure-80%25-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI/CD_&_Automation-75%25-f97316?style=for-the-badge" />
+</p>
 
-☁️ **Cloud & Infrastructure**  
-![Cloud](https://img.shields.io/badge/Expertise-80%25-3b82f6?style=for-the-badge)
-
-🔁 **CI/CD & Automation**  
-![CICD](https://img.shields.io/badge/Expertise-75%25-f97316?style=for-the-badge)
-
-🧰 **Developer Tooling**  
-![DevTools](https://img.shields.io/badge/Expertise-78%25-a855f7?style=for-the-badge)
-
-🧠 **System Design**  
-![SystemDesign](https://img.shields.io/badge/Expertise-80%25-ec4899?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer_Tooling-78%25-a855f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-80%25-ec4899?style=for-the-badge" />
+</p>
 
 ---
 
-## ⭐ Featured Projects
-- **project-one** — High-performance API service  
-- **project-two** — CI automation tooling  
-- **project-three** — Terraform-based infrastructure  
+## ⭐ Selected Work
+- **Scalable Backend APIs** — clean, modular, production-ready services  
+- **CI/CD Automation** — pipelines improving reliability and release velocity  
+- **Infrastructure as Code** — reproducible cloud environments with Terraform  
+
+_(Representative repositories are pinned on my profile.)_
+
+---
+
+## 🌍 Open Source
+- Contributor to DevOps and developer-tooling ecosystems  
+- Regularly improve documentation, fix bugs, and review PRs  
+- Open to collaboration on impactful open-source initiatives  
 
 ---
 
 ## 📬 Contact
-- Email: govind_sharma@live.com  
-- LinkedIn: Govind Kumar  
-- Twitter: @govind0229  
+- **Email:** govind_sharma@live.com  
+- **LinkedIn:** Govind Kumar  
+- **Blog:** medium.com/@govind_sharma  
 
-**Preferred contact:** Email or LinkedIn
+<p align="center">
+  <sub>Modern • Animated • Logo-first • GitHub-safe</sub>
+</p>
