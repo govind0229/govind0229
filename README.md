@@ -1,28 +1,128 @@
-# 💫 About Me:
-I’m a **DevOps Lead with 13+ years of experience** in designing, building, and operating scalable, secure, and highly available cloud platforms. I specialize in **AWS, Kubernetes (EKS), Terraform, CI/CD automation, and containerized systems**.<br><br>I have led DevOps initiatives across multiple environments, focusing on infrastructure as code, automation, reliability, and platform standardization. I enjoy solving complex infrastructure challenges, improving developer productivity, and building resilient systems that scale efficiently.<br>
+<h1 align="center">Hi 👋, I'm Govind Kumar</h1>
+<h3 align="center">DevOps Lead | 13+ Years of Experience | Cloud & Platform Engineering</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/govind-kumar-5b497280) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@govind_sharma) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/govind0229) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/govind0229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:govind_sharma@live.com) 
-
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=plastic&logo=Apache+Groovy&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=plastic&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=plastic&logo=sonarqube&logoColor=4E9BCD) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=govind0229&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=govind0229&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=govind0229&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=govind0229&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=govind0229&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Lead+with+13%2B+Years+Experience;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Automation+%7C+Cloud+Architecture;Building+Scalable+and+Reliable+Platforms&center=true&width=850&height=45">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=govind0229&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/govind0229) 
+## 💫 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am a **DevOps Lead with 13+ years of experience** in designing, building, and operating **scalable, secure, and highly available cloud platforms**.
+
+My expertise spans **AWS, Kubernetes (EKS), Terraform, CI/CD automation, and containerized ecosystems**. I have led DevOps initiatives across multiple environments, driving infrastructure standardization, automation, reliability, and platform maturity.
+
+I enjoy solving complex infrastructure challenges, improving developer productivity, and building resilient systems that scale efficiently in production.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/govind-kumar-5b497280"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://medium.com/@govind_sharma"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>  
+  <a href="https://stackoverflow.com/users/govind0229"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://x.com/govind0229"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="mailto:govind_sharma@live.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### ☁️ Cloud & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare" />
+</p>
+
+### 🧱 Containers & Orchestration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+### ⚙️ Infrastructure as Code & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+</p>
+
+### 🔁 CI/CD & DevOps Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins" />
+</p>
+
+### 🧪 Build & Quality
+<p>
+  <img src="https://skillicons.dev/icons?i=gradle,maven" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
+### 🧠 Languages & Scripting
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,html" />
+</p>
+
+### 📊 Monitoring, Observability & Ops
+
+<p>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,elasticsearch,nginx,postman,jira" />
+</p>
+
+
+
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=govind0229&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=govind0229&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind0229&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=govind0229&theme=flat&no-frame=true&margin-w=15" />
+</p>
+
+
+---
+
+## 🔝 Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=govind0229&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=govind0229&icon=5&color=6" />
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://buymeacoffee.com/govind0229">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
