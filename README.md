@@ -1,114 +1,28 @@
-<!-- ===================================================== -->
-<!--        Govind Kumar | Modern Animated GitHub README   -->
-<!-- ===================================================== -->
+# 💫 About Me:
+I’m a **DevOps Lead with 13+ years of experience** in designing, building, and operating scalable, secure, and highly available cloud platforms. I specialize in **AWS, Kubernetes (EKS), Terraform, CI/CD automation, and containerized systems**.<br><br>I have led DevOps initiatives across multiple environments, focusing on infrastructure as code, automation, reliability, and platform standardization. I enjoy solving complex infrastructure challenges, improving developer productivity, and building resilient systems that scale efficiently.<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Govind_Kumar-Backend_•_Cloud_•_DevOps-0ea5e9?style=for-the-badge" />
-</p>
 
-<h1 align="center">Govind Kumar</h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/govind-kumar-5b497280) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@govind_sharma) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/govind0229) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/govind0229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:govind_sharma@live.com) 
 
-<p align="center">
-  <strong>Backend Engineer • Cloud & DevOps Specialist</strong>
-</p>
+# 💻 Tech Stack:
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=govind0229&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=govind0229&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=govind0229&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <sub>
-    Designing scalable backend systems, cloud-native platforms, and automation pipelines
-    with a focus on performance, reliability, and clean architecture.
-  </sub>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=govind0229&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Backend+Engineering;Cloud+Architecture;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+%26+Automation" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=govind0229&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=govind0229&icon=5&color=0)](https://visitcount.itsvg.in)
 
-## 🔗 Connect
-<p align="center">
-  <a href="https://medium.com/@govind_sharma">Medium</a> ·
-  <a href="mailto:govind_sharma@live.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/govind-kumar-5b497280">LinkedIn</a> ·
-  <a href="https://twitter.com/govind0229">Twitter</a>
-</p>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/govind0229) 
 
----
-
-## 🚀 What I Do
-- Build **production-grade backend services & APIs**
-- Design **cloud-native infrastructure on AWS**
-- Automate **CI/CD pipelines and DevOps workflows**
-- Improve **observability, performance, and reliability**
-
----
-
-## 🧰 Technology Stack
-
-### ☁️ Cloud & Infrastructure
-<p align="center">
-  <img height="60" src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker&theme=dark" />
-</p>
-
----
-
-### ⚙️ Backend & Frameworks
-<p align="center">
-  <img height="60" src="https://skillicons.dev/icons?i=nodejs,fastapi,spring&theme=dark" />
-</p>
-
----
-
-### 💻 Languages
-<p align="center">
-  <img height="60" src="https://skillicons.dev/icons?i=typescript,javascript,python,java,rust&theme=dark" />
-</p>
-
----
-
-### 🗄️ Databases & Messaging
-<p align="center">
-  <img height="60" src="https://skillicons.dev/icons?i=postgres,redis,kafka&theme=dark" />
-</p>
-
----
-
-## 🌈 Core Strengths
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend_Engineering-90%25-22c55e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud_&_Infrastructure-80%25-3b82f6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI/CD_&_Automation-75%25-f97316?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer_Tooling-78%25-a855f7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System_Design-80%25-ec4899?style=for-the-badge" />
-</p>
-
----
-
-## ⭐ Selected Work
-- **Scalable Backend APIs** — clean, modular, production-ready services  
-- **CI/CD Automation** — pipelines improving reliability and release velocity  
-- **Infrastructure as Code** — reproducible cloud environments with Terraform  
-
-_(Representative repositories are pinned on my profile.)_
-
----
-
-## 🌍 Open Source
-- Contributor to DevOps and developer-tooling ecosystems  
-- Regularly improve documentation, fix bugs, and review PRs  
-- Open to collaboration on impactful open-source initiatives  
-
----
-
-## 📬 Contact
-- **Email:** govind_sharma@live.com  
-- **LinkedIn:** Govind Kumar  
-- **Blog:** medium.com/@govind_sharma  
-
-<p align="center">
-  <sub>Modern • Animated • Logo-first • GitHub-safe</sub>
-</p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
