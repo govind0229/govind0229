@@ -28,7 +28,9 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Calcutta
-          filename: assets/achievements.svg
+          filename: achievements.svg
+          output_action: commit
+          committer_branch: metrics
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes

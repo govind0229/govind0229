@@ -97,7 +97,7 @@ I am a **DevOps Lead** with **14+ years** of hands-on experience in designing an
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=govind0229&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <br/>
-  <img src="https://raw.githubusercontent.com/govind0229/govind0229/main/assets/achievements.svg" alt="Achievements" />
+  <img src="https://raw.githubusercontent.com/govind0229/govind0229/metrics/achievements.svg" alt="Achievements" />
 </div>
 
 <br />
