@@ -80,7 +80,7 @@ I am a **DevOps Lead** with **14+ years** of hands-on experience in designing an
 
 <br />
 
-### <img src="assets/analytics.png" width="30" height="30" alt="Analytics" /> GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=govind0229&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
@@ -92,21 +92,20 @@ I am a **DevOps Lead** with **14+ years** of hands-on experience in designing an
 
 <br />
 
-### <img src="assets/trophies.png" width="30" height="30" alt="Trophies" /> Achievements & Productivity
+### 🏆 Achievements & Productivity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=govind0229&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <br/>
-  <img src="https://raw.githubusercontent.com/govind0229/govind0229/metrics/achievements.svg" alt="Achievements" />
+  <br/>
+  <!-- Achievements -->
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100" alt="YOLO" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark" />
+  <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="100" alt="Arctic Code Vault" />
 </div>
 
-<br />
-
 <div align="center">
-  <p>
-    <img src="https://visitcount.itsvg.in/api?id=govind0229&icon=5&color=6" />
-  </p>
   <a href="https://buymeacoffee.com/govind0229">
-    <img src="assets/buymeacoffee.png" width="50" height="50" alt="Buy Me A Coffee" />
+    <img src="assets/buymeacoffee_button.png" width="200" alt="Buy Me A Coffee" />
   </a>
 </div>
