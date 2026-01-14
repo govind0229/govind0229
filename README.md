@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/banner.png" alt="Govind Kumar - DevOps Lead & Cloud Architect" width="100%" />
+  <img src="assets/banner.png" alt="Govind Kumar - DevOps Lead & Cloud Architect" width="100%" />
 </div>
 
 <div align="center">
@@ -12,19 +12,19 @@
 <div align="center">
   <p>
     <a href="https://linkedin.com/in/govind-kumar-5b497280">
-      <img src="./assets/linkedin.png" width="50" height="50" alt="LinkedIn" />
+      <img src="assets/linkedin.png" width="50" height="50" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://medium.com/@govind_sharma">
-      <img src="./assets/medium.png" width="50" height="50" alt="Medium" />
+      <img src="assets/medium.png" width="50" height="50" alt="Medium" />
     </a>
     &nbsp;
     <a href="https://stackoverflow.com/users/govind0229">
-      <img src="./assets/stackoverflow.png" width="50" height="50" alt="StackOverflow" />
+      <img src="assets/stackoverflow.png" width="50" height="50" alt="StackOverflow" />
     </a>
     &nbsp;
     <a href="mailto:govind_sharma@live.com">
-      <img src="./assets/email.png" width="50" height="50" alt="Email" />
+      <img src="assets/email.png" width="50" height="50" alt="Email" />
     </a>
   </p>
 </div>
@@ -56,7 +56,7 @@ I am a **DevOps Lead** with **14+ years** of hands-on experience in designing an
     <td width="45%" align="center">
 
 <br />
-<img src="https://raw.githubusercontent.com/govind0229/govind0229/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="assets/devops_isometric.png" alt="Cloud Architecture" />
 
    </td>
   </tr>
@@ -80,28 +80,24 @@ I am a **DevOps Lead** with **14+ years** of hands-on experience in designing an
 
 <br />
 
-### <img src="./assets/analytics.png" width="30" height="30" alt="Analytics" /> GitHub Analytics
+### <img src="assets/analytics.png" width="30" height="30" alt="Analytics" /> GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=govind0229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Govind's Stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=govind0229&theme=tokyonight&hide_border=true" alt="Govind's Streak" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind0229&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govind0229&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=govind0229&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <br />
 
-### <img src="./assets/trophies.png" width="30" height="30" alt="Trophies" /> Trophies
+### <img src="assets/trophies.png" width="30" height="30" alt="Trophies" /> Achievements & Productivity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=govind0229&theme=outrun&no-frame=true&margin-w=15&row=1" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=govind0229&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/govind0229/govind0229/main/assets/achievements.svg" alt="Achievements" />
 </div>
 
 <br />
@@ -111,6 +107,6 @@ I am a **DevOps Lead** with **14+ years** of hands-on experience in designing an
     <img src="https://visitcount.itsvg.in/api?id=govind0229&icon=5&color=6" />
   </p>
   <a href="https://buymeacoffee.com/govind0229">
-    <img src="./assets/buymeacoffee.png" width="50" height="50" alt="Buy Me A Coffee" />
+    <img src="assets/buymeacoffee.png" width="50" height="50" alt="Buy Me A Coffee" />
   </a>
 </div>
